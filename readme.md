@@ -1,12 +1,12 @@
-#Application Web (Servlet)
+# Application Web (Servlet)
 C'est un simulateur de crédit  
 
-##Technologies :
+## Technologies :
 - Java 8
 - Tomcat 8
 - Servlet
 - JSP
 - Projet Maven  
 
-##Author :
+## Author :
 NOUNI EL Bachir
